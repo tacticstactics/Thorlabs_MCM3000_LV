@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ThorMCM3000Settings>
+  <Connection portID="3" baudRate="9600" address="1" />
+  <XRangeConfig minMM="-10" maxMM="10" threshold="2.0" />
+  <YRangeConfig minMM="-10" maxMM="10" threshold="2.0" />
+  <ZRangeConfig minMM="-3" maxMM="3" threshold="1.0" />
+  <StageAxisConfig Stage1="x" Stage2="y" Stage3="z" />
+</ThorMCM3000Settings>
